@@ -1,0 +1,5 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "liftory",
+  "description": "For athletes, personal trainers and nutrition coaches: plan training and nutrition, coach clients and answer messages in your Liftory account from Antigravity, acting only as you."
+}
